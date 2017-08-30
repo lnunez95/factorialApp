@@ -1,0 +1,2 @@
+javac -d . FactorialApp.java
+jar cvfe factorialApp.jar FactorialApp *.class
